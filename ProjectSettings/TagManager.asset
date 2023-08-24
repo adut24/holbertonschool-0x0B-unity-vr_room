@@ -3,7 +3,12 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Projector1
+  - Projector2
+  - Door
+  - Projector4
+  - Projector3
   layers:
   - Default
   - TransparentFX
